@@ -18,3 +18,4 @@
 12. https://leetcode.com/problems/the-time-when-the-network-becomes-idle/
 13. https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/
 14. https://leetcode.com/problems/reconstruct-itinerary/
+15. https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/
